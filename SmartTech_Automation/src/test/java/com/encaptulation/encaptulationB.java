@@ -11,14 +11,17 @@ public class encaptulationB {
      
 
      private String getName() {
+    	 
     	 return name;
      }
      
      private int getRouternumber() {
+    	 
     	 return routernumber;
      }
      
     private int getTotalmoney() {
+    	
     	return totalmoney;
     }
     
@@ -32,4 +35,5 @@ public class encaptulationB {
 	  
 	  System.out.println("total balance is:"+obj.getTotalmoney());
 } 
+   
 }
