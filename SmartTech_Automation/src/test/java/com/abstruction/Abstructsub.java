@@ -24,5 +24,7 @@ public class Abstructsub extends Abstructmain {
 	  
 	  obj.getcountryname();
 	  obj.region();
+	  obj.subcontinent();
+	  obj.reglion();
 }
 }
