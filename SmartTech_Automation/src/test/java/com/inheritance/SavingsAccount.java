@@ -27,9 +27,13 @@ public class SavingsAccount {
 protected void savingDetails() {
 	
 	initialbalance=1500.99;
+	
 	deposit=1050;
+	
 	withdraw=700.60;
+	
 	balance=initialbalance+deposit-withdraw;
+	
 	System.out.println("customer total savings;"+balance);
 }
 
