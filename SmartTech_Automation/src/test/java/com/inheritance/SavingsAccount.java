@@ -12,6 +12,8 @@ public class SavingsAccount {
 	static double balance ;
 
 	protected void openAccount() {
+		
+		//this information is protected nobody can see it thats why its protected
 
         String name = "Tamnia Alam";
 		int id = 9080;
